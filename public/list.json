@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Adventure Book",
+    "title": "Explore the World",
+    "price": 15,
+    "category": "Adventure",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1231122126.1719492143&semt=sph"
+  },
+  {
+    "id": 2,
+    "name": "Comedy Book",
+    "title": "Laugh Out Loud",
+    "price": 20,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1231122126.1719492143&semt=sph"
+  },
+  {
+    "id": 3,
+    "name": "Sports Book",
+    "title": "Winning Strategies",
+    "price": 25,
+    "category": "Sports",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1231122126.1719492143&semt=sph"
+  },
+  {
+    "id": 4,
+    "name": "Science Book",
+    "title": "The Wonders of Science",
+    "price": 30,
+    "category": "Science",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1231122126.1719492143&semt=sph"
+  },
+  {
+    "id": 5,
+    "name": "History Book",
+    "title": "Learn from the Past",
+    "price": 18,
+    "category": "History",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1231122126.1719492143&semt=sph"
+  },
+  {
+    "id": 6,
+    "name": "Mystery Book",
+    "title": "Unsolved Mysteries",
+    "price": 22,
+    "category": "Mystery",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1231122126.1719492143&semt=sph"
+  },
+  {
+    "id": 7,
+    "name": "Romance Book",
+    "title": "Love Stories",
+    "price": 17,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1231122126.1719492143&semt=sph"
+  },
+  {
+    "id": 8,
+    "name": "Horror Book",
+    "title": "Scary Tales",
+    "price": 19,
+    "category": "Horror",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1231122126.1719492143&semt=sph"
+  },
+  {
+    "id": 9,
+    "name": "Fantasy Book",
+    "title": "Magical Worlds",
+    "price": 21,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1231122126.1719492143&semt=sph"
+  },
+  {
+    "id": 10,
+    "name": "Cooking Book",
+    "title": "Delicious Recipes",
+    "price": 20,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1231122126.1719492143&semt=sph"
+  }
+]
